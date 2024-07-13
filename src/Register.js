@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import Header from './Header';
 import Button from 'react-bootstrap/Button';
 
  function Register()
@@ -63,7 +64,7 @@ import Button from 'react-bootstrap/Button';
                     <label for="phone_number" class="form-label">Password</label>
                   </div>
                 </div>
-                <Button     type="submit" onClick={signUp} value="Submit" />
+                <Button name="submit" onClick={signUp} value="Submit" Submit >Submit</Button>
               </div>
             </form>
           </div>

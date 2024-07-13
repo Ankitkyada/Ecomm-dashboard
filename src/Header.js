@@ -12,6 +12,8 @@ import { Link } from "react-router-dom";
             <Link to="/edit" >Update Product</Link>
             <Link to="/login" >Login</Link>
             <Link to="/register" >Register</Link>
+            <Link to="/todo" >Todo</Link>
+             <Link to="/tic" >Tic</Link>
           </Nav>
       </Navbar>
         </div>
