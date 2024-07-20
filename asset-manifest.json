@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ecomm-dashboard/static/css/main.c9e9050f.css",
+    "main.js": "/Ecomm-dashboard/static/js/main.cfe3d03f.js",
+    "static/js/453.526cc2a4.chunk.js": "/Ecomm-dashboard/static/js/453.526cc2a4.chunk.js",
+    "static/media/logo.svg": "/Ecomm-dashboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Ecomm-dashboard/index.html",
+    "main.c9e9050f.css.map": "/Ecomm-dashboard/static/css/main.c9e9050f.css.map",
+    "main.cfe3d03f.js.map": "/Ecomm-dashboard/static/js/main.cfe3d03f.js.map",
+    "453.526cc2a4.chunk.js.map": "/Ecomm-dashboard/static/js/453.526cc2a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9e9050f.css",
+    "static/js/main.cfe3d03f.js"
+  ]
+}
